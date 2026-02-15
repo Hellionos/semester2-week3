@@ -16,3 +16,10 @@ int main( void ) {
 
     return 0;
 }
+/*
+*0x7ffc45716040 , 0x7ffc45716044
+*
+*Placed directly adjacent to each other
+*int is 4 bytes
+*
+*/
